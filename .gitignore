@@ -1,0 +1,8 @@
+# Video files
+video/*.mp4
+*.mp4
+
+# Other large files
+*.mov
+*.avi
+*.wmv
